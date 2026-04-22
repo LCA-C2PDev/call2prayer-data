@@ -1,0 +1,7 @@
+{
+  "name": "Call2Prayer.PROPlus Data",
+  "baseUrl": "https://data.call2prayer.net/data/",
+  "files": [
+    "CLOUDLINX.AEDXB_CITY.c2p"
+  ]
+}
