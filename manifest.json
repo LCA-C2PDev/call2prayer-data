@@ -3,6 +3,7 @@
   "baseUrl": "https://data.call2prayer.net/data/",
   "files": [
     "CLOUDLINX.AEDXB_CITY.c2p",
-    "CLOUDLINX.PKKYC_SOUTHI.c2p"
+    "CLOUDLINX.PKKYC_SOUTHI.c2p",
+    "CLOUDLINX.AESHJ_CITY.c2p"
   ]
 }
