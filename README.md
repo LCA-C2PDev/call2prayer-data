@@ -17,6 +17,9 @@ Example public file URL:
 
 ```text
 https://data.call2prayer.net/data/CLOUDLINX.AEDXB_CITY.c2p
+https://data.call2prayer.net/data/CLOUDLINX.SARUH_CITY.c2p
+⋮
+So on..
 ```
 
 ---
