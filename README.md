@@ -11,7 +11,7 @@ This repository publishes `.c2p` data files for client download over HTTPS.
 
 ## Purpose
 
-This repository is the public data host for `Call2Prayer.PROPlus`. It is intended for small static Cal2Prayer PROPlus platform validation and geo-ops and almanac string data that can be fetched directly by the application.
+This repository is the public data host for `Call2Prayer.PROPlus`. It is intended for small static Cal2Prayer PROPlus platform validation and calccs profile for each specific city that feeds requried geo-ops and almanac parameters to Call2Prayer Calculation Engine developed and properiatery to LC ACOUSTICS. The Engine dynamically calculates data which can be fetched directly by the application.
 
 Example public file URL:
 
